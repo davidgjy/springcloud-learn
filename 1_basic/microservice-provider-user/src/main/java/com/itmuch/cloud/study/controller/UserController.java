@@ -17,7 +17,8 @@ public class UserController {
   private UserRepository userRepository;
 
   @ApiOperation(value = "Find User by Id")
-  @GetMapping("/{id}")
+//  @GetMapping("/{id}")
+  @RequestMapping(value = "/{id}", method = RequestMethod.GET)
   public @ResponseBody
   User findById(@PathVariable Long id) {
     User user = this.userRepository.findById(id).orElse(null);
