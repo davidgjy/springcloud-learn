@@ -1,0 +1,9 @@
+# docker build -t 仓库名称/镜像名称(:标签) Dockerfile的相对位置
+docker build -t itmuch/microservice-discovery-eureka:0.0.1 .
+
+
+# 启动镜像
+docker run -d -p 8790:8790 itmuch/microservice-discovery-eureka:0.0.1
+
+
+ps aux|grep microservice-discovery-eureka

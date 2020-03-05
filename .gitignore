@@ -139,3 +139,5 @@ Icon
 /target/
 /target/
 /target/
+
+*.jar
