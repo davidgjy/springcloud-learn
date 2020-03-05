@@ -1,0 +1,7 @@
+# build a docker image
+docker build -t nginx:my .
+
+
+# run a docker container
+docker run -d -p 92:80 nginx:my
+
