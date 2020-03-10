@@ -12,7 +12,7 @@ import org.springframework.security.oauth2.provider.token.store.redis.RedisToken
  * Created by KG on 2019/10/8
  */
 
-@Configuration
+//@Configuration
 public class RedisTokenStoreConfig {
 
     @Autowired
