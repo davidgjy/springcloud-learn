@@ -28,7 +28,7 @@ public class AuthorizationServerConfig extends AuthorizationServerConfigurerAdap
     private UserService userService;
 
     /**
-     * 使用密码模式需要配置
+     * 使用用户服务来控制认证服务器的访问
      */
     @Override
     public void configure(AuthorizationServerEndpointsConfigurer endpoints) {
