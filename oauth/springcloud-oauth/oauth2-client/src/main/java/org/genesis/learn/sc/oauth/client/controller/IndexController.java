@@ -1,4 +1,4 @@
-package com.jnj.adc.learn.sc.oauth.client.controller;
+package org.genesis.learn.sc.oauth.client.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.Authentication;

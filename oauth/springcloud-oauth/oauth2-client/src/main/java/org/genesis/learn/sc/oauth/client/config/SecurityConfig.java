@@ -1,4 +1,4 @@
-package com.jnj.adc.learn.sc.oauth.client.config;
+package org.genesis.learn.sc.oauth.client.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.annotation.Order;

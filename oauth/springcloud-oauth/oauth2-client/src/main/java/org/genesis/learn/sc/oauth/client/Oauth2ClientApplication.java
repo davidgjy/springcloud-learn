@@ -1,4 +1,4 @@
-package com.jnj.adc.learn.sc.oauth.client;
+package org.genesis.learn.sc.oauth.client;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

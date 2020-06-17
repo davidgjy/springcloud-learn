@@ -1,4 +1,4 @@
-package com.jnj.adc.learn.sc.oauth.client.controller;
+package org.genesis.learn.sc.oauth.client.controller;
 
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.security.core.Authentication;

@@ -11,7 +11,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>com.jnj.adc</groupId>
+    <groupId>org.genesis</groupId>
     <artifactId>springcloud-oauth</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
@@ -27,6 +27,7 @@
         <module>oauth2-server</module>
         <module>oauth2-jwt-server</module>
         <module>oauth2-client</module>
+        <module>oauth2-server-mysql</module>
     </modules>
 
     <dependencies>
