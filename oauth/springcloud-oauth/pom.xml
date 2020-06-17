@@ -22,6 +22,10 @@
         <maven.compilter.version>3.1</maven.compilter.version>
         <java.version>14</java.version>
         <spring-cloud.version>Hoxton.SR5</spring-cloud.version>
+        <swagger.version>2.9.2</swagger.version>
+        <alibaba.druid.version>1.1.22</alibaba.druid.version>
+        <flyway.version>5.2.4</flyway.version>
+        <mybatis-plus.version>3.2.0</mybatis-plus.version>
     </properties>
 
     <modules>
