@@ -1,7 +1,7 @@
-package com.jnj.adc.learn.sc.oauth.server.service;
+package org.genesis.learn.sc.oauth.server.service;
 
 
-import com.jnj.adc.learn.sc.oauth.server.domain.User;
+import org.genesis.learn.sc.oauth.server.domain.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.authority.AuthorityUtils;
 import org.springframework.security.core.userdetails.UserDetails;

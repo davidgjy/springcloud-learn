@@ -1,6 +1,6 @@
-package com.jnj.adc.learn.sc.oauth.server.config;
+package org.genesis.learn.sc.oauth.server.config;
 
-import com.jnj.adc.learn.sc.oauth.server.service.UserService;
+import org.genesis.learn.sc.oauth.server.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.authentication.AuthenticationManager;

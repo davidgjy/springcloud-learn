@@ -1,4 +1,4 @@
-package com.jnj.adc.learn.sc.oauth.server.config;
+package org.genesis.learn.sc.oauth.server.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

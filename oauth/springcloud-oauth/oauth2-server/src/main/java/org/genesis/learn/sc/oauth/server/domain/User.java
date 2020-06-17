@@ -1,4 +1,4 @@
-package com.jnj.adc.learn.sc.oauth.server.domain;
+package org.genesis.learn.sc.oauth.server.domain;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

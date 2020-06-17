@@ -1,8 +1,7 @@
-package com.jnj.adc.learn.sc.oauth.server;
+package org.genesis.learn.sc.oauth.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.ComponentScan;
 
 /**
  * @author : KG

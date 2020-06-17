@@ -1,4 +1,4 @@
-package com.jnj.adc.learn.sc.oauth.server.controller;
+package org.genesis.learn.sc.oauth.server.controller;
 
 import org.springframework.security.core.Authentication;
 import org.springframework.web.bind.annotation.GetMapping;
